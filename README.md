@@ -11,7 +11,8 @@ I am a Data Science and Machine Learning enthusiast and currently pursuing a Mas
 
 ## Ongoing Project 🌱
 
-- Currently pursuing a Master's degree in Data Science. 
+- Volumen of sales prediction based on the promotions.
+- Final Master Project Prediction of reprocessing in the dieying process for wool fibers. 
 
 ## Collaboration 💞️
 
