@@ -9,10 +9,6 @@ I am a Data Science and Machine Learning enthusiast with a Master's degree in Da
 - Data Science 
 - Machine Learning 
 
-## Ongoing Project 🌱
-
-- Sales Volume Forecasting using Promotional Strategies
-- Predicting Reprocessing in Wool Fiber Dyeing through Master Project Analysis
 
 ## Collaboration 💞️
 
