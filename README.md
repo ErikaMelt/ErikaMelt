@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm [eomac](https://github.com/eomac)
 
-I am a Data Science and Machine Learning enthusiast with a Master's degree in Data Advanced Analytics and Data Science.
+I am a Data Science and Machine Learning enthusiast with a Master's degree in Advanced Analytics and Data Science.
 
 ## My Interests 👀 
 
